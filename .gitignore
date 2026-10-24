@@ -1,0 +1,21 @@
+## .NET Core / C# ignore rules
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio / VS Code
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider / JetBrains
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
