@@ -320,7 +320,7 @@ public class Festival : Evento
 ### Pasos para Ejecutar
 1. Clonar el repositorio desde GitHub:
    ```bash
-   git clone https://github.com/TU-USUARIO/PLANAZO-POO-CSharp.git
+   git clone https://github.com/JoanSebastian12/PLANAZO-POO-CSharp.git
    cd PLANAZO-POO-CSharp
    ```
 
@@ -417,7 +417,8 @@ Validación exacta de las reglas polimórficas:
 
 ## 👨‍💻 Autor y Datos del Parcial
 - **Estudiante:** Joan Sebastián Gómez
+- **Usuario GitHub:** [@JoanSebastian12](https://github.com/JoanSebastian12)
+- **Repositorio:** [PLANAZO-POO-CSharp](https://github.com/JoanSebastian12/PLANAZO-POO-CSharp)
 - **Asignatura:** Programación con C# y .NET (Electiva de Profundización II)
-- **Repositorio:** `PLANAZO-POO-CSharp`
 - **Fecha:** Octubre de 2026
 - **Tecnologías:** C# 12, .NET 8.0 SDK, Visual Studio / VS Code
